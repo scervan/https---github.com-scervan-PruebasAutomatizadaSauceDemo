@@ -1,0 +1,14 @@
+{
+  "name": "pruebat.devsu",
+  "version": "1.0.0",
+  "description": "PruebaTecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaidCervantesC",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
